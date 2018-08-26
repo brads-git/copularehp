@@ -29,7 +29,6 @@ dmidecode
 dmraid
 dnsmasq
 dosfstools
-draftsight
 dropbox
 e2fsprogs
 ecryptfs-utils
@@ -39,7 +38,6 @@ ethtool
 exo
 faenza-green-icon-theme
 fakeroot
-ffmpeg2.8
 ffmpegthumbnailer
 file
 filesystem
@@ -73,7 +71,6 @@ gst-plugins-base
 gst-plugins-good
 gst-plugins-ugly
 gstreamer0.10-bad-plugins
-gstreamer0.10-base-plugins
 gstreamer0.10-ugly-plugins
 gtk-engine-aurora
 gtk-theme-ceti
@@ -162,6 +159,7 @@ manjaro-system
 masterpdfeditor
 mdadm
 mediainfo
+meld
 memtest86+
 menda-circle-icon-theme
 menda-square-icon-theme
@@ -213,8 +211,8 @@ pciutils
 pcmciautils
 perl
 pidgin
-pkg-config
 pkgcacheclean
+pkgconf
 pkgtools
 plymouth-theme-manjaro-elegant
 polkit-gnome
@@ -261,7 +259,6 @@ terminus-font
 testdisk
 texinfo
 thunar
-thunar-archive-plugin
 thunar-media-tags-plugin
 thunar-volman
 thunderbird
